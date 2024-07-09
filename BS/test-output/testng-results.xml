@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-14T12:03:53 IST" name="Default suite" finished-at="2024-06-14T12:04:09 IST" duration-ms="16023">
+    <groups>
+    </groups>
+    <test started-at="2024-06-14T12:03:53 IST" name="Default test" finished-at="2024-06-14T12:04:09 IST" duration-ms="16023">
+      <class name="Testcases.Invocation_ThreadPoolSize">
+        <test-method signature="Tc1()[pri:0, instance:Testcases.Invocation_ThreadPoolSize@39529185]" started-at="2024-06-14T12:03:53 IST" name="Tc1" finished-at="2024-06-14T12:04:04 IST" duration-ms="10327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method signature="Tc1()[pri:0, instance:Testcases.Invocation_ThreadPoolSize@39529185]" started-at="2024-06-14T12:03:53 IST" name="Tc1" finished-at="2024-06-14T12:04:04 IST" duration-ms="10111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method signature="Tc1()[pri:0, instance:Testcases.Invocation_ThreadPoolSize@39529185]" started-at="2024-06-14T12:03:53 IST" name="Tc1" finished-at="2024-06-14T12:04:03 IST" duration-ms="9893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method signature="Tc1()[pri:0, instance:Testcases.Invocation_ThreadPoolSize@39529185]" started-at="2024-06-14T12:03:53 IST" name="Tc1" finished-at="2024-06-14T12:04:03 IST" duration-ms="9907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+        <test-method signature="Tc1()[pri:0, instance:Testcases.Invocation_ThreadPoolSize@39529185]" started-at="2024-06-14T12:04:03 IST" name="Tc1" finished-at="2024-06-14T12:04:09 IST" duration-ms="6056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+      </class> <!-- Testcases.Invocation_ThreadPoolSize -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
